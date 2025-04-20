@@ -1,9 +1,8 @@
 # My Resume Website
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPOSITORY_NAME)
 
-This repository contains the source code for a static website showcasing my professional resume. You can view the live version at [YOUR_LIVE_WEBSITE_URL] (if you have deployed it).
+This repository contains the source code for a static website showcasing my professional resume.
 
 ## Overview
 
